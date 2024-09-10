@@ -13,5 +13,4 @@ By identifying patterns and learning from data, machine learning enhances decisi
 
 # <h2>Machine Problem No. 1</h2> <br>
 
-https://github.com/user-attachments/assets/d37ed51d-2879-4b19-b105-306e2102ea59
-
+https://github.com/user-attachments/assets/e5bdfd2f-9e5c-4b8d-b57b-06cc9d598e85
