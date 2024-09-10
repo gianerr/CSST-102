@@ -11,7 +11,7 @@ Machine learning applications involve using algorithms to analyze data, make pre
 These applications range from healthcare diagnostics and financial fraud detection to personalized marketing, autonomous vehicles, and cybersecurity. 
 By identifying patterns and learning from data, machine learning enhances decision-making, improves efficiency, and solves complex problems in real-world scenarios.
 
-# <h2>Machine Problem No. 1: Create Github Repository for the subject</h2> <br>
+# <h2>Machine Problem No. 1</h2> <br>
 
 https://github.com/user-attachments/assets/d37ed51d-2879-4b19-b105-306e2102ea59
 
